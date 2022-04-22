@@ -19,6 +19,7 @@ public class new3_12 {
     }
 
     public static void main(String[] args) {
+        print("hi git");
         print(standardIfElse(10));
     }
 }
